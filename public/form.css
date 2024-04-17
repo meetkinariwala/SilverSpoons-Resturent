@@ -1,0 +1,187 @@
+:root{
+
+    --background-color:#C9D7DD;
+    --btn-color:#637A9F;
+}
+
+/* file upload css */
+input[type=file]::file-selector-button {
+    margin-right: 20px;
+    border: none;
+    background: #637A9F;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+    transition: .2s ease-in-out;
+  }
+  
+  input[type=file]::file-selector-button:hover {
+    background: #637a9fa8;
+  }
+
+.cuisininsert{
+
+    position: absolute;
+    height: auto;
+    width: 400px;
+    padding: 20px;
+    background-color: var(--background-color);
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.557);
+    border-radius: 20px;
+}
+.cuisininsert .inputform{
+    display: flex;
+}
+
+.cuisininsert  .inputform{
+
+    width: 100%;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+
+.cuisininsert button{
+
+    background-color:var(--btn-color);
+    color: white;
+}
+
+.cuisininsert button:hover{
+
+    letter-spacing: 2px;
+    transition: all 1s ;
+    background-color:var(--btn-color);
+    color: rgb(255, 255, 255);
+
+}
+
+
+/* //menu create form css */
+.menuinsert{
+
+    position: absolute;
+    height: auto;
+    width: 600px;
+    padding: 20px;
+    background-color: var(--background-color);
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.557);
+    border-radius: 20px;
+}
+.menuinsert .inputform{
+    display: flex;
+}
+
+.menuinsert  .inputform{
+
+    width: 100%;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+
+.menuinsert button{
+
+    background-color: var(--btn-color);
+    color: white;
+}
+
+.menuinsert button:hover{
+
+    letter-spacing: 2px;
+    transition: all 1s ;
+    background-color: var(--btn-color);
+    color: rgb(255, 255, 255);
+
+}
+
+.menuinsert .textreaform{
+
+   width: 450px;
+   background-color: transparent;
+   border: 2px black;
+  outline: 2px solid black;
+
+}
+
+/*
+table create form css */
+
+.tableinsert{
+
+    position: absolute;
+    height: auto;
+    width: 800px;
+    padding: 20px;
+    background-color: rgba(128, 128, 128, 0.333);
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.557);
+    border-radius: 20px;
+}
+.tableinsert .inputform{
+    display: flex;
+}
+
+.tableinsert  .inputform{
+
+    width: 100%;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+
+.tableinsert button:hover{
+
+    letter-spacing: 2px;
+    transition: all 1s ;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+
+}
+
+
+/* staff form css */
+
+
+.staffinsert{
+
+    position: absolute;
+    height: auto;
+    width: 800px;
+    padding: 20px;
+    background-color: rgba(128, 128, 128, 0.333);
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.557);
+    border-radius: 20px;
+}
+.staffinsert .inputform{
+    display: flex;
+}
+
+.staffinsert  .inputform{
+
+    width: 100%;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+
+.staffinsert button:hover{
+
+    letter-spacing: 2px;
+    transition: all 1s ;
+    background-color:var(--btn-color);
+    color:white
+
+}
+
+.staffinsert button{
+
+    background-color: var(--btn-color);
+    color: white;
+}
+

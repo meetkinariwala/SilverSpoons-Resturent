@@ -1,0 +1,93 @@
+body{
+
+    background: url(silverspoonsimg/Sliver\ Spoons\ video.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#loginbox{
+
+    position: absolute;
+    height: auto;
+    width: 450px;
+    top: 15%;
+    left: 58%;
+    border-radius: 40px;
+   padding: 20px;
+   background-color: white;
+   box-shadow: inset -3px -3px 7px  #dbca2d68,
+   inset 3px 3px 5px rgba(0,0,0,0.374);
+
+}
+#loginbox h1{
+
+    font-family: 'Kanit', sans-serif;
+    font-weight: 700;
+
+}
+
+
+
+#loginbox .form-floating input  {
+
+   border-radius: 10px;
+   height: 50px;
+   
+
+}
+#loginbox .fa-brands:hover{
+
+    transform: scale(1.2);
+}
+
+#loginbox  .fa-right-to-bracket{
+
+    opacity: 0.7;
+
+
+}
+
+#signupbox{
+
+    position: absolute;
+    height: auto;
+    width: 450px;
+    top: 2%;
+    left: 58%;
+    border-radius: 40px;
+   padding: 20px;
+   background-color: white;
+   box-shadow: inset -3px -3px 7px #dbc92d42,
+   inset 3px 3px 5px rgba(0,0,0,0.374);
+
+}
+#signupbox h1{
+
+    font-family: 'Kanit', sans-serif;
+    font-weight: 700;
+
+}
+
+
+
+#signupbox .form-floating input  {
+
+   border-radius: 10px;
+   height: 40px;
+   
+   
+
+}
+#signupbox .fa-brands:hover{
+
+    transform: scale(1.2);
+}
+
+#signupbox  .fa-right-to-bracket{
+
+    opacity: 0.7;
+
+
+
+}

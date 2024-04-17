@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\sem-6(project)\\silverspoons updated\\silverspoons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\sem-6(project)\\silverspoons updated\\silverspoons\\resources\\views\\adminnavbar.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\adminnavbar.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\sem-6(project)\\silverspoons updated\\silverspoons\\resources\\views\\adminhome.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\adminhome.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "adminnavbar.blade.php",
+              "DocumentMoniker": "F:\\sem-6(project)\\silverspoons updated\\silverspoons\\resources\\views\\adminnavbar.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\adminnavbar.blade.php",
+              "ToolTip": "F:\\sem-6(project)\\silverspoons updated\\silverspoons\\resources\\views\\adminnavbar.blade.php",
+              "RelativeToolTip": "resources\\views\\adminnavbar.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQqSURBVDhPbZXdTyNVGMafmel0\u002BjVtaaEtq9YuunyIm6W72rI3KKxw4zXRhAT1guytJP4Dxmu5N9Fww2o0IQtXC0RNFw0VWBYEgY3FKt9daen3tPRjxnMOlFD1TZ6c03be3zznvO855TRNQyAQwPLycisAL5FGxBHxFyP9XL0Yj6nu3buXmpubI1PyAEcfOQ\u002Be4zTdxZxFb2/vG6Ojo8N0rqoqVyqVUCgUqDRFUWhy2Wg0lhKJxFJfX9/H4\u002BPjZZ/Px3JpqJrG1YDsNQ6Hw\u002Br3\u002B9vpnABRqVRQLBaRz\u002BeRy\u002BXY2NTURH9zE\u002BjZ2NjY50NDQ0fBYJC6Z0GXdRnUfk2CIECv14M4gizLTPR7g8GAjo6OF4eHh\u002B9ns9kPZ2ZmXllcXLwg1AM1kqDxPI\u002BaalCTyQSz2QxJkpjrcrkMp9NpHBkZ\u002BSwcDvdMTExcbl2dQxpXgTWnNYmiiJ2dHUxOTmJ6ehqbm5vIZDINJM1\u002Bnl0PVKnDq4CrIIvFQl3B7XYzWa1W5p682E1ym84RQF2VlUoWu\u002BktxJUDpJQTlNUS9IIEm\u002BSC0\u002BSBzUJggpstnRaJLp3sqUhS65csWXjYXxYbVEfCsRkPIZIKY095ikNlDXv5VUSSi/hpewH7mb8gGFVW6ebmZng8Hlq0ajQarYZCIQZk5KZWydDZbve7bue7YqU1tHluwufshllvRTKfxno0gu9C6zgNxNHf1YNWZ4BtAe1Nsh3VqakpNR6Pg1abOWzrl7tvvuV699brr/qDbbfwmvc67DY9DMRNsQCsr3J4tiXhz3gE0XQYh5lnl9XX6XQqQVCxYECjLNz2uK0\u002Br8cpOexGcGIBVT6DMp9CrpTC0UmeNLgGu2yEqkshlo\u002BwYlEoGWlT147rOVCn4zocNpPLbJLwPJ5D6JdjfP0wiq\u002B\u002B\u002BR0PH\u002B3ij90MOUU8rrlJc0s5JM52L/uUdgZB1J8UnYhms0mQ09kKfphP4NupIzz68QCzj/fxOBzD3kEBLS0CaReRuFdQVE\u002BvAv\u002B7ZFFHbhO\u002Bqv62reCLL0kRNvLof0fCRx/ICAYN7Fx3dnKQbSUCqpIVCQxYa/6rce5QwE6xVEiks6RqemBwUA/3tSo2thQsPTmDzQa8GSQvNmYhwAiXhd5y9VdXLRiQF7hflTMlZm9UEOhWsbik4sGDEhYWKmho0PDe\u002Bzo4G8\u002BglNLQc1Y0yzcu3f0byvrweLv4RBELdxs92Rv\u002BoOBcWzFAx0nwXefxkleD/04ZSjmLw/34yWlEjW38PZ/82bAPcjlzyWSyQI6kTDCsMAyoHXq3iob492VnzunyFu4Mdthkq9FiEgWdUCbXS6aQU9KpTPb5cXIpspxfia1k9qAt0FS0t7dzAwMDIm0hGuwvgMbs3qd4ejLRQqYDRD1EXUT0FkkQrRLNE83e9dzff/uFT8j0/wL4B2PXrQ/QewBfAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-04-14T09:33:07.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adminhome.blade.php",
+              "DocumentMoniker": "F:\\sem-6(project)\\silverspoons updated\\silverspoons\\resources\\views\\adminhome.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\adminhome.blade.php",
+              "ToolTip": "F:\\sem-6(project)\\silverspoons updated\\silverspoons\\resources\\views\\adminhome.blade.php",
+              "RelativeToolTip": "resources\\views\\adminhome.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQqSURBVDhPbZXdTyNVGMafmel0\u002BjVtaaEtq9YuunyIm6W72rI3KKxw4zXRhAT1guytJP4Dxmu5N9Fww2o0IQtXC0RNFw0VWBYEgY3FKt9daen3tPRjxnMOlFD1TZ6c03be3zznvO855TRNQyAQwPLycisAL5FGxBHxFyP9XL0Yj6nu3buXmpubI1PyAEcfOQ\u002Be4zTdxZxFb2/vG6Ojo8N0rqoqVyqVUCgUqDRFUWhy2Wg0lhKJxFJfX9/H4\u002BPjZZ/Px3JpqJrG1YDsNQ6Hw\u002Br3\u002B9vpnABRqVRQLBaRz\u002BeRy\u002BXY2NTURH9zE\u002BjZ2NjY50NDQ0fBYJC6Z0GXdRnUfk2CIECv14M4gizLTPR7g8GAjo6OF4eHh\u002B9ns9kPZ2ZmXllcXLwg1AM1kqDxPI\u002BaalCTyQSz2QxJkpjrcrkMp9NpHBkZ\u002BSwcDvdMTExcbl2dQxpXgTWnNYmiiJ2dHUxOTmJ6ehqbm5vIZDINJM1\u002Bnl0PVKnDq4CrIIvFQl3B7XYzWa1W5p682E1ym84RQF2VlUoWu\u002BktxJUDpJQTlNUS9IIEm\u002BSC0\u002BSBzUJggpstnRaJLp3sqUhS65csWXjYXxYbVEfCsRkPIZIKY095ikNlDXv5VUSSi/hpewH7mb8gGFVW6ebmZng8Hlq0ajQarYZCIQZk5KZWydDZbve7bue7YqU1tHluwufshllvRTKfxno0gu9C6zgNxNHf1YNWZ4BtAe1Nsh3VqakpNR6Pg1abOWzrl7tvvuV699brr/qDbbfwmvc67DY9DMRNsQCsr3J4tiXhz3gE0XQYh5lnl9XX6XQqQVCxYECjLNz2uK0\u002Br8cpOexGcGIBVT6DMp9CrpTC0UmeNLgGu2yEqkshlo\u002BwYlEoGWlT147rOVCn4zocNpPLbJLwPJ5D6JdjfP0wiq\u002B\u002B\u002BR0PH\u002B3ij90MOUU8rrlJc0s5JM52L/uUdgZB1J8UnYhms0mQ09kKfphP4NupIzz68QCzj/fxOBzD3kEBLS0CaReRuFdQVE\u002BvAv\u002B7ZFFHbhO\u002Bqv62reCLL0kRNvLof0fCRx/ICAYN7Fx3dnKQbSUCqpIVCQxYa/6rce5QwE6xVEiks6RqemBwUA/3tSo2thQsPTmDzQa8GSQvNmYhwAiXhd5y9VdXLRiQF7hflTMlZm9UEOhWsbik4sGDEhYWKmho0PDe\u002Bzo4G8\u002BglNLQc1Y0yzcu3f0byvrweLv4RBELdxs92Rv\u002BoOBcWzFAx0nwXefxkleD/04ZSjmLw/34yWlEjW38PZ/82bAPcjlzyWSyQI6kTDCsMAyoHXq3iob492VnzunyFu4Mdthkq9FiEgWdUCbXS6aQU9KpTPb5cXIpspxfia1k9qAt0FS0t7dzAwMDIm0hGuwvgMbs3qd4ejLRQqYDRD1EXUT0FkkQrRLNE83e9dzff/uFT8j0/wL4B2PXrQ/QewBfAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-04-14T09:33:04.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
